@@ -1,2 +1,2 @@
 # Understanding-VLSI-Design-Flow
-Some entry level VLSI projects
+Top to Down method
