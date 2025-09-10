@@ -1,2 +1,2 @@
 # Understanding-VLSI-Design-Flow
-Top to Down method
+Top to Bottom method
